@@ -1,2 +1,7 @@
 i# public_repo
 this is the first entry made from the behalf of boutiquewp within the localy cloned git repository of boutiquewip
+<<<<<<< HEAD
+this is the 3rd ( incorrect ) change of the readme.md file (made from the incorrect branch)
+=======
+this is the 2nd ( correct ) change to the file
+>>>>>>> c9bfa075590e7335ea893ff95a24564f4a40b34b
